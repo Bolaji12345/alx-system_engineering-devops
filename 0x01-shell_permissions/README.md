@@ -6,3 +6,4 @@ command for changing owner is chown
 command for creating an empty file is touch hello
 Command that add executing permission is chmod +x
 Absolute method of permission "chmod 754 hello"
+Symblic permission for all Owners, groups and all
